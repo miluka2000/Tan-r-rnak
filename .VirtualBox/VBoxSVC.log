@@ -1,0 +1,116 @@
+00:00:00.045090 main     VirtualBox COM Server 7.0.18 r162988 win.amd64 (May  2 2024 10:02:33) release log
+00:00:00.045095 main     Log opened 2024-11-11T12:23:19.100574300Z
+00:00:00.045097 main     Build Type: release
+00:00:00.045118 main     OS Product: Windows 10
+00:00:00.045120 main     OS Release: 10.0.19045
+00:00:00.045122 main     OS Service Pack: 
+00:00:00.182695 main     DMI Product Name: D520MT_D520SF_D320MT
+00:00:00.196369 main     DMI Product Version: System Version
+00:00:00.196394 main     Firmware type: UEFI
+00:00:00.196886 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.196922 main     Host RAM: 8081MB (7.8GB) total, 5165MB (5.0GB) available
+00:00:00.196926 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.196927 main     Process ID: 6600
+00:00:00.196927 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.285391          VirtualBox: object creation starts
+00:00:00.288271          Home directory: 'C:\Users\hollik.milan.tibor\.VirtualBox'
+00:00:00.288656          Installed Drivers:
+00:00:00.292920            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.18.12988)
+00:00:00.293476            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.18.12988)
+00:00:00.293754            C:\Windows\system32\DRIVERS\VBoxSup.sys (Version: 7.0.18.12988)
+00:00:00.294304            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.0.18.12988)
+00:00:00.337964          usbLibGetDevices: Starting USB device enumeration
+00:00:00.361496          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.514492          HostDnsMonitor: initializing
+00:00:00.554266          HostDnsMonitor: updating information
+00:00:00.554871          HostDnsMonitor: old information
+00:00:00.554874            no server entries
+00:00:00.554876            no domain set
+00:00:00.554877            no search string entries
+00:00:00.554878          HostDnsMonitor: new information
+00:00:00.554879            server 1: 10.0.0.10
+00:00:00.554881            domain: mechwart.local
+00:00:00.554881            no search string entries
+00:00:00.627119          VD: VDInit finished with VINF_SUCCESS
+00:00:01.121567          OCI: Local config file 'C:\Users\hollik.milan.tibor\.VirtualBox\oci_config' does not exist
+00:00:01.121671          OCI: Original config file 'C:\Users\hollik.milan.tibor\.oci\config' does not exist
+00:00:01.121672          OCI: Reading profiles finished with status ERROR_SUCCESS
+00:00:01.128847          ExtPack: Created cloud provider 'OCI' (hrc=ERROR_SUCCESS)
+00:00:01.136926          VirtualBox: object created
+00:00:01.239196          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.276487          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:00:01.276875          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.296607          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:00:01.296912          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.335587          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:00:01.866038          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.888122          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:00:05.372479          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:05.402711          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:00:05.816054          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:05.857273          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:00:26.085234          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:26.116810          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:00:48.355294          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:48.376524          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:00:51.357958          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:51.385450          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:00:53.476900          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:53.500164          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:00:55.212071          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:55.238970          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:01:01.555154          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:01.586710          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:01:06.014166          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:06.042329          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:01:10.238286          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:10.271454          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:01:16.282575          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:16.311765          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:01:16.671219          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:16.710044          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:10:55.639175 dns-monitor HostDnsMonitor: updating information
+00:10:55.639208 dns-monitor HostDnsMonitor: unchanged
+00:17:12.725900          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:12.756234          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:17:12.761644          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:12.784856          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:17:26.824798          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:26.848199          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:18:56.779755          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named '{00000000-0000-0000-0000-000000000000}'}, preserve=false aResultDetail=0
+00:23:51.538602 createBase Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:23:51.561781 createBase Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:23:51.726429          Saving settings file "C:\Users\hollik.milan.tibor\VirtualBox VMs\Win11hali\Win11hali.vbox" with version "1.19-windows"
+00:23:51.753948          Finished saving settings file "C:\Users\hollik.milan.tibor\VirtualBox VMs\Win11hali\Win11hali.vbox"
+00:23:51.754510          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:23:51.775075          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:23:51.827638          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:23:51.853528          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:23:51.875858          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:23:51.907336          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:23:51.961545          Saving settings file "C:\Users\hollik.milan.tibor\VirtualBox VMs\Win11hali\Win11hali.vbox" with version "1.19-windows"
+00:23:51.986220          Finished saving settings file "C:\Users\hollik.milan.tibor\VirtualBox VMs\Win11hali\Win11hali.vbox"
+00:23:52.142437          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:23:52.172844          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:23:52.557135          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:24:50.226112          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:24:50.250669          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:24:50.252092          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:24:50.283970          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:24:50.285362          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:24:50.315287          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:24:50.317121          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:24:50.338938          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:24:50.359623          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:24:50.362166          Saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:24:50.398949          Finished saving settings file "C:\Users\hollik.milan.tibor\.VirtualBox\VirtualBox.xml"
+00:24:50.549779          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:24:57.892107          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:25:15.202308          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:25:20.031767          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:27:46.865097          Saving settings file "C:\Users\hollik.milan.tibor\VirtualBox VMs\Win11hali\Win11hali.vbox" with version "1.19-windows"
+00:27:46.883576          Finished saving settings file "C:\Users\hollik.milan.tibor\VirtualBox VMs\Win11hali\Win11hali.vbox"
+00:27:46.923083          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:28:11.394925 main     WM_QUERYENDSESSION: shutdown (0x00000000)
+00:28:11.394968 main     No active connections: bActivity = false, lock count = 1
+00:28:11.400241 main     WM_ENDSESSION: shutdown (TRUE/0x00000000)
